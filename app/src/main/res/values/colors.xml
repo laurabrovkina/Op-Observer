@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorWhite">#ffffff</color>
+
+
+    <color name="teacherActivity1">#00738c</color>
+    <color name="teacherActivity2">#81b0b2</color>
+    <color name="teacherActivity3">#d6ead4</color>
+    <color name="teacherActivity4">#eff2d8</color>
+    <color name="teacherActivity5">#97a675</color>
+    <color name="teacherActivity6">#4f745e</color>
+    <color name="teacherActivity7">#818656</color>
+    <color name="teacherActivity8">#b7a56c</color>
+
+
+    <color name="studentActivity1">#ffd901</color>
+    <color name="studentActivity2">#ffbeae</color>
+    <color name="studentActivity3">#ffade2</color>
+    <color name="studentActivity4">#ff5682</color>
+    <color name="studentActivity5">#f42439</color>
+    <color name="studentActivity6">#c35c2f</color>
+    <color name="studentActivity7">#ea9b67</color>
+
+
+
+
+
+
+
+
+
+</resources>

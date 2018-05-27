@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">OPObserver</string>
+    <string name="navigation_drawer_open">Drawer Open</string>
+    <string name="navigation_drawer_close">Drawer Closed</string>
+    <string name="clear_canvas">Clear</string>
+    <string name="title_activity_three">Results</string>
+    <string name="undo_canvas">Undo</string>
+
+</resources>
